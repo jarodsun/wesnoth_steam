@@ -83,3 +83,10 @@ arcane=0
 recruit=Horseman,BowmanX,Spearman,Footpad
 把Bowman改为BowmanX，加强后的弓箭手，使用的是Loyalist_Bowman_X.cfg中的`id`
 ```
+
+### 3.2 The_South_Guard
+
+```
+data\campaigns\The_South_Guard\scenarios\01_Born_to_the_Banner.cfg
+把Bowman改为BowmanX
+```

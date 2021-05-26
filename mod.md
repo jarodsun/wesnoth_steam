@@ -94,3 +94,12 @@ recruit=Horseman,BowmanX,Spearman,Footpad
 data\campaigns\The_South_Guard\scenarios\01_Born_to_the_Banner.cfg
 把Bowman改为BowmanX
 ```
+
+### 3.3 An_Orcish_Incursion
+
+中文名：兽人入侵
+
+```
+data\campaigns\An_Orcish_Incursion\scenarios\01_Defend_the_Forest.cfg
+加入Elvish ArcherX
+```

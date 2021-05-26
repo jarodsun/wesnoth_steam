@@ -10,7 +10,7 @@ Steam，1.14.16
 
 `/data/core/units`:兵种相关
 
-`/data/campaigns`:任务配置文件
+`/data/campaigns`:战役配置文件
 
 # 修改说明
 
@@ -73,9 +73,11 @@ arcane=0
 [/specials]
 ```
 
-## 3. 兵种配置到任务地图
+## 3. 战役地图调整
 
 ### 3.1 Two_Brothers
+
+中文名：兄弟传说
 
 `scenarios`文件夹下`01_Rooting_Out_a_Mage.cfg`文件中
 
@@ -85,6 +87,8 @@ recruit=Horseman,BowmanX,Spearman,Footpad
 ```
 
 ### 3.2 The_South_Guard
+
+中文名：南疆卫队
 
 ```
 data\campaigns\The_South_Guard\scenarios\01_Born_to_the_Banner.cfg

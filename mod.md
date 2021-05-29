@@ -103,3 +103,12 @@ data\campaigns\The_South_Guard\scenarios\01_Born_to_the_Banner.cfg
 data\campaigns\An_Orcish_Incursion\scenarios\01_Defend_the_Forest.cfg
 加入Elvish ArcherX
 ```
+
+### 3.4 The_Rise_Of_Wesnoth
+
+中文名：韦诺崛起
+
+```
+data\campaigns\The_Rise_Of_Wesnoth\scenarios\01_A_Summer_of_Storms.cfg
+加入BowmanX
+```
